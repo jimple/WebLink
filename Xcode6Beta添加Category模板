@@ -1,0 +1,7 @@
+
+
+cp -r /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Templates/File\ Templates/Cocoa\ Touch/Objective-C\ category.xctemplate /Applications/Xcode6-Beta.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Templates/File\ Templates/Source/
+
+
+ 
+
